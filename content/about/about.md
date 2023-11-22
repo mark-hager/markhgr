@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+Hi, I'm Mark. I'm a developer and data analyst based out of the Boston, Massachusetts area.
