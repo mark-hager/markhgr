@@ -1,8 +1,8 @@
 ---
 title: Making this website!
-description: This is a post on My Blog about touchpoints and circling wagons.
+description: a jill carries eleventy possums on her back
 date: 2023-11-22
-tags: webdev
+tags: web development
 ---
 ## Why now?
 
