@@ -1,9 +1,10 @@
 ---
-layout: layouts/base.njk
+layout: layouts/home.njk
 eleventyNavigation:
-  key: About Me
-  order: 3
+  key: home
+  order: 1
+numberOfLatestPostsToShow: 3
 ---
-# About Me
 
 Hi, I'm Mark. I'm a developer and data analyst based out of the Boston, Massachusetts area.
+

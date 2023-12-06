@@ -31,7 +31,7 @@
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
 
-		--background-color: #15202b;
+		--background-color: #1f1f1f;
 	}
 }
 
@@ -97,7 +97,7 @@ main :first-child {
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	border-bottom: 1px solid var(--color-gray-20);
 }
 header:after {
 	content: "";
@@ -144,6 +144,7 @@ code {
 
 /* Header */
 header {
+	font-size: 1.3em;
 	display: flex;
 	gap: 1em .5em;
 	flex-wrap: wrap;
@@ -244,7 +245,11 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
-
+/* media and embeds */
+.post-img {
+	float: right;
+	width: 50%;
+}
 /* Direct Links / Markdown Headers */
 .header-anchor {
 	text-decoration: none;
