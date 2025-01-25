@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	title: "mark hgr",
 	url: "https://markhgr.com/",
 	language: "en",

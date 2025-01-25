@@ -22,5 +22,5 @@ For this website I decided that I would learn something new. I knew that the con
 
 As of this first blog post, this website is still using most of the defaults from the [Eleventy base blog.](https://github.com/11ty/eleventy-base-blog)  I plan on writing more as I play around with different layouts and maybe trying a new templating language like Liquid. Definitely more work to do, like figuring out a good way to scale images in Eleventy. This possum logo is huge!
 
-{% image "./possum.avif", "A possum parent and two possum kids hanging from the iconic red balloon"%}
+![A possum parent and two possum kids hanging from the iconic red balloon](./possum.avif)
 
